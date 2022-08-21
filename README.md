@@ -1,7 +1,6 @@
 # <h1>Olá, seja BEM-VINDO!</h1>
 
 <div align="left">
-  <a href="https://github.com/sandromzljr/Engenharia-Atributos">
   <h2>O que é Engenharia de Atributos?</h2>
 
   <p>A Engenharia de Atributos é a 'arte' de formular recursos úteis a partir de dados existentes seguindo o destino a ser aprendido e o modelo de aprendizado de máquina a ser usado. Envolve transformar dados em formas que melhor se relacionem com o alvo a ser aprendido. 
@@ -27,4 +26,8 @@ representa um valor que é igual à média.
   <p>Quanto mais longe o Z-score de uma observação estiver de zero, mais incomum essa
 observação será. Um valor de corte padrão para encontrar valores discrepantes são escores Z de
 +/- 3 ou acima.
+
+  <hr>
+  <p> Este repositório é a continuação da <a href="https://github.com/sandromzljr/Analise-Exploratoria-Dados">Análise Exploratória de Dados</a></p>
+
 </div>
